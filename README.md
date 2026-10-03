@@ -69,15 +69,15 @@ Passionate about Artificial Intelligence, Machine Learning, Python Development, 
 - Augmented Reality Workshop – BharatXR & Snap AR
 - Programming in C & OOP with C++ – IIT Kanpur
 
-## 📫 Connect With Me
+## 🔗 Links
+
+🌐 Portfolio: https://nitya-portfolio-taupe.vercel.app
+
+💼 LinkedIn: https://linkedin.com/in/nitya-tiwari-ai
+
+💻 GitHub: https://github.com/NITYA123715
 
 📧 Email: tnitya888@gmail.com
-
-💼 LinkedIn:
-https://linkedin.com/in/nitya-tiwari-ai
-
-💻 GitHub:
-https://github.com/NITYA123715
 
 ---
 ⭐ If you like my projects, feel free to explore my repositories and connect with me!
